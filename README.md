@@ -7,21 +7,21 @@ A Python project for scraping stock data.
 ### 1. Clone the repository
 
 ```sh
-git clone <repo-url>
+git clone https://github.com/AnthoFio/Stock_Scraping.git
 cd Stock_Scraping
 ```
 
 ### 2. Create a virtual environment
 
 ```sh
-python -m venv venv
+python -m venv .venv
 ```
 
 ### 3. Activate the virtual environment
 
 - **Windows:**
     ```sh
-    venv\Scripts\activate
+    . .venv\Scripts\activate
     ```
 - **macOS/Linux:**
     ```sh
